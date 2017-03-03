@@ -13,4 +13,4 @@
      <li>Si algún campo presenta error debe informarse al usuario por medio de un alert.</li>
 </ol>
 
-<p>Mira cómo quedó haciendo click <strong><a href="#" target="_blank">aquí</a></strong></p>
+<p>Mira cómo quedó haciendo click <strong><a href="https://itsandromeda.github.io/bicis-locas/" target="_blank">aquí</a></strong></p>
